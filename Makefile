@@ -14,7 +14,7 @@
 
 DOCKER   ?= docker
 MKDIR    ?= mkdir
-REGISTRY ?= quay.ioi/mgiessing
+REGISTRY ?= quay.io/mgiessing
 
 DCGM_VERSION   := 2.3.1
 GOLANG_VERSION := 1.17
